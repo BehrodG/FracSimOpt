@@ -1,5 +1,5 @@
 # FracSimOpt
-**Estimating Fractured rock properties via ML**
+**Estimating fractured rock properties via ML**
 
 This is a code I developed in MATLAB environment for my masters thesis in summer 2012. The aim was to forecast the properties of the fractured material based on numerical simulations coupled with Machine Learning algorithms. 
 
