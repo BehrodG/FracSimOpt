@@ -20,3 +20,4 @@ The error function would be calculated and via iterative numerical optimization 
 **Levenberg-Marquardt (also known as Damped Least Squares):**
 ![image](https://user-images.githubusercontent.com/121983512/223021765-b1c32d87-efc1-4992-b436-9600e66b4076.png)
 
+Note: These were for conceptual representation purpose. In real case problems tens of parameters were calibrated through the machine learning process. 
