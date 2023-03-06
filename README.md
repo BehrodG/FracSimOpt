@@ -13,8 +13,9 @@ The error function would be calculated and via iterative numerical optimization 
 **Gradient descent (GD):**
 ![image](https://user-images.githubusercontent.com/121983512/223021199-2daa5a1d-3f62-4466-a18b-aaa5608fc0d9.png)
 
+
 **Newton:**
-![image](https://user-images.githubusercontent.com/121983512/223021257-4e08b358-f934-40a2-b939-a4ba677e9e90.png)
+![image](https://user-images.githubusercontent.com/121983512/223022269-98f467e8-dcf5-43b5-ab1c-ab024b8cbd71.png)
 
 
 **Levenberg-Marquardt (also known as Damped Least Squares):**
